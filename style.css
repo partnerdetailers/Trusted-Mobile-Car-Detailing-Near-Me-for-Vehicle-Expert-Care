@@ -73,13 +73,13 @@ nav.nav-menu {
 }
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #ebebeb;
+    background-color: #000000;
     overflow: hidden;
 }
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #161616;
+  color: #ffffff;
   text-align: center;
   padding: 18px 18px;
   text-decoration: none;
